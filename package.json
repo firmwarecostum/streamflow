@@ -38,6 +38,10 @@
     "uuid": "^11.1.0",
     "video.js": "^8.21.0"
   },
+  "optionalDependencies": {
+    "@ffmpeg-installer/linux-arm64": "^4.1.4",
+    "@ffprobe-installer/linux-arm64": "^5.2.0"
+  }
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
